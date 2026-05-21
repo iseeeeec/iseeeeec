@@ -1,11 +1,12 @@
 ## Hi there 👋
 
 🌱 Currently learning:
-- C
-- C++
+- C\C++
+- js
+- html\css
   <!--
   -c#
-  -jav
+  -
   - Game development
   - Linux
    -->
@@ -15,6 +16,7 @@
 
 🔹 Small C programs
 🔹 Small C++ programs
+🔹 small  html\css\jsprograms
 <!--
 🔹 Raylib learning projects  
 -->
