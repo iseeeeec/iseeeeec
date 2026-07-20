@@ -32,4 +32,4 @@
 🚀 Become better at programming.
 <!--
 -->
-![Banner](squint.png)
+[Banner](squint.png)
