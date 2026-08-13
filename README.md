@@ -16,7 +16,7 @@
 
 🔹 Small C programs
 🔹 Small C++ programs
-🔹 small  html\css\jsprograms
+🔹 small  html\css\js programs
 <!--
 🔹 Raylib learning projects  
 -->
